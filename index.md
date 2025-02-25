@@ -13,3 +13,9 @@ var sum = a + b
 fmt.Println(sum)
 ```
 Run the file using `go run main.go`
+
+## Chapter 4
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
